@@ -1,5 +1,5 @@
 "Github link: https://github.com/sulemanajaz/22033960_Data-and-Visualization"
-
+"Jupyter Notebook Link: http://localhost:8888/lab/tree/22033960"
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
